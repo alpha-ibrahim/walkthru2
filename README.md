@@ -3,4 +3,4 @@
 ## Introduction
 
 
-This is a sSample repo for workthru 2 of fast.ai course
+This is a sample repo for workthru 2 of fast.ai course
